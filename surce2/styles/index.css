@@ -1,0 +1,73 @@
+body
+{
+	/* background-image: -moz-linear-gradient(SkyBlue, rgb(96, 139, 168), rgb(0, 55, 128));
+	background-image: -webkit-linear-gradient(SkyBlue, rgb(96, 139, 168), rgb(0, 55, 128));
+	background-image: -o-linear-gradient(SkyBlue, rgb(96, 139, 168), rgb(0, 55, 128));
+	background-repeat: no-repeat;
+    background-attachment: fixed; */
+    margin: 0;
+    font-size: 20px;
+    background-image: url("https://i.pinimg.com/originals/76/89/c5/7689c5513084cd3ae199cec4f9b84af3.jpg");
+	background-position: center;
+    background-attachment: fixed;
+    padding: 0% 30% 0% 0%;
+}
+
+#munkalap{
+	background-color: rgba(0, 0, 0, 0.0);
+	color: rgba(0, 0, 0, 0.0);
+	width: 80%;
+	height: 100%;
+    margin: 0 auto;
+    padding: 0% 30% 0% 60%;
+}
+
+#munkalap_folott{
+    height: 15px;
+    color: rgba(0, 0, 0, 0.0);
+}
+
+
+h1{
+    color: beige;
+    text-align: center;
+    font-size: 40px;   
+}
+
+h2{
+    color: beige;
+    text-align: center;
+    font-size: 35px;   
+}
+
+.name{
+    color: beige;
+    font-size: 30px;
+}
+
+.types{
+    color: black;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.6);
+    width: 100%;
+}
+
+#ar{
+ text-align: right;
+ display: block;
+}
+
+/* unvisited link */
+a:link {
+    color: green;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: red;
+  }
